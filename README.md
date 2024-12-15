@@ -1,1 +1,1 @@
-# To_do_list_project
+To-do list helps the users to stay organized and productive.
